@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	background-color: #eca558;
+	font-family: Helvetica , "游ゴシック" , "Yu Gothic";
+	color: #7b7b7b;
+	width: 100vw;
+}
+
+h1,ul,li{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	color: #FFF;
+	font-size: 30px;
+	height: 60px;
+	text-align: center;
+}
+.profile{
+	margin: auto;
+	padding: 20px 0;
+	border-radius: 20px;
+	width: 80%;
+	background-color: #fff;
+	text-align: center;
+
+	/* background-image: url("../img/kenstyle.png"); */
+
+}
+img{
+	width: 30%;
+}
+.prof_list{
+	list-style: none;
+	width: 60%;
+	margin: auto;
+
+	/* background-color: rgba(255, 255, 255, 0.8); */
+
+}
+.list_name{
+	background-color: #f3f3f3;
+	color: #eca558;
+	font-size: 18px;
+}
+.list_content{
+	padding: 20px 0;
+}
